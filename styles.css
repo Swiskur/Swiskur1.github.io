@@ -1,0 +1,59 @@
+.body-class{
+    background-color: bisque;
+}
+.header-class{
+    background-color: rgb(169, 163, 79);
+    color: rgb(233, 210, 76);
+}
+.nav-class{
+    background-color: rgb(233, 210, 76);
+}
+.nav-link-class{
+    color: rgb(17, 99, 1);
+}
+.title-class{
+    color:rgb(96, 50, 20);
+}
+
+.section-title-class{
+    color:rgb(59, 39, 2);
+}
+.text-class{
+    color:rgb(66, 104, 5);
+    font-size: 18px
+}
+.image-class{
+    border: 20px solid rgb(233, 210, 76);
+}
+.form-class{
+    color:rgb(122, 58, 1)
+
+}
+.button-class{
+    background-color: rgb(75, 72, 5);
+    color:rgb(219, 186, 138)
+
+}
+.footer-class{
+    background-color: rgb(233, 210, 76);
+    color: rgb(17, 99, 1);
+
+}
+a:active{
+    font-weight: 900;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+    font-family: 'Helvetica Neue', sans-serif;
+
+  }
